@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>Christian Marks</h1>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Container Practice #2: Complete</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  <h3>Software Developer</h3>
+  <main>
+   <img src= "https://avatars3.githubusercontent.com/u/74568719?s=460&u=1582504f715947f19d7ec88f7c30369528b2214f&v=4t" alt = "A picture of Christian."> 
+  </main>
+   <h3>Hi, I'm Christian!</h2>
+  <body>
+    <h2> As a former professional basketball player I enjoy:</h2>
+    <ul>
+      <li>Working on teams</li>
+      <li>Accomplishing group goals</li>
+      <li>Growing from other perspectives</li>
+      </ul>
+      <h2>Please take a look at my site and feel free to contact me!</h2>
+      <div>
+        <h1>About Me...</h1>
+        <p>I graduated with a business degree. After I graduated, I started playing professional basketball in China. While in China, I started to appreciate the art of websites and apps. This was the spark of my journey with Thinkful.
+        </p>
+        <p> Please let me know if you are look for a new developer, hungry for an opportunity!</p>
+      <div>
+        <section>
+          <h3>Contact information</h3>
+          <p>
+          <a href = "www.linkedin.com/in/christian-marks-019995194">Linkedin</a>
+          </p>
+         <p>
+          <a href = "https://github.com/christianmarks3">Github</a>
+          </p>
